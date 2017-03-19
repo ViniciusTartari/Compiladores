@@ -1,3 +1,4 @@
+//Nao otimizado
 #include "Analisador_Sintatico.h"
 
 int main ()
